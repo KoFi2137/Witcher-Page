@@ -1,0 +1,117 @@
+#napis {
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+#about h1,p {
+color: white;
+text-align:center;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#about p {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+#heroes h1,p {
+    color: white;
+    text-align:center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#monsters h1,p {
+    color: white;
+    text-align:center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h4 {
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#geralt img {
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+    border-radius: 50%; 
+}
+#ciri img {
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+    border-radius: 50%; 
+    
+}
+
+#yennefer img {
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+    border-radius: 50%; 
+}
+
+#vessemir img {
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+    border-radius: 50%; 
+    margin-top: 10px;
+}
+
+#triss img {
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+    border-radius: 50%; 
+}
+#bies img {
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+    border-radius: 50%; 
+}
+#leszy img {
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+    border-radius: 50%;
+}
+#sukkub img {
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+    border-radius: 50%;
+
+}
+#striga img {
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+    border-radius: 50%;
+}
+#ekimma img {
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+    border-radius: 50%;
+}
+#quiz h1 {
+    margin-top: 0px;
+    text-align: center;
+}
+#quiz {
+    color: red;
+}
+a {
+    color: red;
+}
+#stopka a {
+    color: black;
+}
+#stopka {
+    text-align: center;
+    background-image: url("./img/tło\ stopka.jpg");
+    background-repeat: no-repeat;
+    background-size: 750px;
+    background-position: center;
+}
